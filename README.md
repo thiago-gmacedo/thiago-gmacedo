@@ -29,6 +29,6 @@ return Thiago;
 ___
 ### Status do perfil 📊:
 
-<img aling="left" height="240" width="240" src="https://octodex.github.com/images/Professortocat_v2.png"> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-gmacedo&show_icons=true&theme=dracula)
+<img aling="left" height="240" width="240" src="https://octodex.github.com/images/Professortocat_v2.png"> ⠀⠀⠀⠀⠀⠀⠀⠀⠀![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-gmacedo&show_icons=true&theme=dracula)
 ___
 
