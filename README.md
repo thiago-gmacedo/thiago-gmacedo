@@ -16,7 +16,7 @@ const Thiago = {
   MBTI: "ISFP",
   knowledge: [JavaScript, HTML, CSS, Python, Unix & bash, GitHub],
   tools: [Node, React, Jest, RTL],
-  nationality: "Contagem/MG",
+  nationality: "MG/Brasil",
   age: 19,
   hobbies: {
     study: ["Finance", "IoC", "Cryptocurrencie", "Technology"],
