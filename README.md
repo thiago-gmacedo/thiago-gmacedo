@@ -17,7 +17,7 @@ const Thiago = {
   knowledge: [JavaScript, HTML, CSS, Python, Unix & bash, GitHub],
   tools: [Node, React, Jest, RTL],
   nationality: "MG/Brasil",
-  age: 19,
+  age: 20,
   hobbies: {
     study: ["Finance", "IoC", "Cryptocurrencie", "Technology"],
     breakTime: ["Movies", "Games", "Music"],
