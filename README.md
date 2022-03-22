@@ -2,7 +2,7 @@
 
 ### Eu sou o Thiago sejam bem vindos ao meu perfil !!
 
-Sou estudante de desenvolvimento e atualmente estou estudando na escola [Trybe](https://www.linkedin.com/school/betrybe/) com o objetivo de me tornar um __desenvolvedor full-stack junior.__
+__Desenvolvedor full-stack junior__ formado na escola [Trybe](https://www.linkedin.com/school/betrybe/).
 
 ___
 
