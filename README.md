@@ -13,6 +13,11 @@
 - Futuramente pretendo começar a estudar web3 e suas tecnologias.
 
 - Entusia no mundo crypto.
+<hr>
+<h3>Entre em contato comigo através dos canais</h3>
+
+<a href="https://www.linkedin.com/in/thiago-gmacedo/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:thiagog.macedom@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<hr>
 <h2>Minhas Skills 👨‍💻</h2>
 
 Linguagens
